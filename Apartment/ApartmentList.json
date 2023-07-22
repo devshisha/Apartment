@@ -1,0 +1,88 @@
+[
+  {
+    "address": "123 Main Street",
+    "floor": "1st Floor",
+    "doorNumber": "A101",
+    "inventory": [
+      {
+        "itemName": "Refrigerator",
+        "quantity": 1
+      },
+      {
+        "itemName": "Sofa",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "address": "456 Elm Avenue",
+    "floor": "2nd Floor",
+    "doorNumber": "B202",
+    "inventory": [
+      {
+        "itemName": "Air-conditioner",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "address": "789 Oak Road",
+    "floor": "3rd Floor",
+    "doorNumber": "C303",
+    "inventory": [
+      {
+        "itemName": "TV",
+        "quantity": 1
+      },
+      {
+        "itemName": "Microwave",
+        "quantity": 1
+      },
+      {
+        "itemName": "Washing Machine",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "address": "789 Oak Road",
+    "floor": "3rd Floor",
+    "doorNumber": "C303",
+    "inventory": [
+      {
+        "itemName": "TV",
+        "quantity": 1
+      },
+      {
+        "itemName": "Microwave",
+        "quantity": 1
+      },
+      {
+        "itemName": "Washing Machine",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "address": "781 Central Road",
+    "floor": "9th Floor",
+    "doorNumber": "C33",
+    "inventory": [
+      {
+        "itemName": "TV",
+        "quantity": 1
+      },
+      {
+        "itemName": "Bed",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "address": "780 Pasir Road",
+    "floor": "11th Floor",
+    "doorNumber": "08",
+    "inventory": []
+  }
+]
+
